@@ -1,0 +1,4 @@
+x64/
+SchedulingAlgorithms.vcxproj
+SchedulingAlgorithms.vcxproj.filters
+SchedulingAlgorithms.vcxproj.user
